@@ -1,2 +1,2 @@
-# wen-design
+# web-design
 New design web page!
